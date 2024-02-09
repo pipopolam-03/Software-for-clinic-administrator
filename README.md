@@ -2,10 +2,10 @@
 This is my course work on OOP java programming. Using this soft you can create, delete, change data about patients, their diseases, about doctors, hospital departments, diseases for each department, create appointments, make a certificate for patients. It includes basic GUI, connection with mysql database.
 
 # How to use
-You can start program from the "Appointment_form" class. You'll see the start page and after this using navigation you can try out all use cases.
+You can start the program from "Appointment_form" class. You'll see the start page and after that using navigation you can try out all use cases.
 
 # Schemas 
-I've made some schemas that show how this soft works in outline.
+I've made some scheme that show how this soft works in outline.
 
 ![типа описание](https://github.com/pipopolam-03/Software-for-clinic-administrator/assets/69760973/1eb39c03-c315-4473-a187-53cd3fb03556)
 
